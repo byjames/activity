@@ -1,0 +1,575 @@
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok appid=:appid AND  openid=:openid AND  channel=:channel AND  sid=:sid  
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_6_user SET `uid`=:uid,`gameid`=:gameid,`respce_lottery_total`=:respce_lottery_total,`surplus_lottery_num`=:surplus_lottery_num,`openid`=:openid,`act_lottery_end_at`=:act_lottery_end_at,`lottery_total`=:lottery_total,`create_at`=:create_at,`lucky_draw_total`=:lucky_draw_total,`lottery_up_limit`=:lottery_up_limit,`login_at`=:login_at WHERE appid=:appid AND  openid=:openid AND  channel=:channel AND  sid=:sid  
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:08[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:01:08[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:08[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:01:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:01:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_user_consignee SET `type`=:type,`consignee_address`=:consignee_address,`consignee_phone`=:consignee_phone WHERE openid=:openid AND appid=:appid 
+        AND channel=:channel AND sid=:sid AND prize_order=:prize_order 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM app_user_consignee 
+        WHERE openid=:openid 
+        AND appid=:appid
+        AND channel=:channel
+        AND sid =:sid 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_user_consignee SET `type`=:type,`consignee_address`=:consignee_address,`consignee_phone`=:consignee_phone WHERE openid=:openid AND appid=:appid 
+        AND channel=:channel AND sid=:sid AND prize_order=:prize_order 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM app_user_consignee 
+        WHERE openid=:openid 
+        AND appid=:appid
+        AND channel=:channel
+        AND sid =:sid 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT account,password,`desc`,itemid FROM app_virtual_item_prize 
+        WHERE itemid=:itemid  LIMIT 1 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok itemid=:itemid  
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_virtual_item_prize SET `status`=:status WHERE itemid=:itemid  
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM app_user_consignee 
+        WHERE openid=:openid 
+        AND appid=:appid
+        AND channel=:channel
+        AND sid =:sid 
+2018-11-16 13:31:34[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM gank_globaldb.tb_config WHERE act_status=1 
+2018-11-16 13:31:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 
+2018-11-16 13:31:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 
+2018-11-16 13:37:24[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM gank_globaldb.tb_config WHERE act_status=1 
+2018-11-16 13:37:47[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 
+2018-11-16 13:37:47[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 
+2018-11-16 13:39:42[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll SELECT * FROM gank_globaldb.tb_config WHERE act_status=1 
+2018-11-16 13:40:06[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 
+2018-11-16 13:40:06[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO gank_activites.tb_stat_back_ranking (`appid`,`channel_id`,`server_min`,`server_max`,`channel_code`,`type`,`ranking_rule`)
+		VALUES (?,?,?,?,?,?,?) 

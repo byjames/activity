@@ -1,0 +1,1022 @@
+2018-11-15 10:27:52[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 ranking 
+2018-11-15 10:27:52[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 11:17:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_activity 
+2018-11-15 11:17:12[D:\xampp\htdocs\activity\index.php: line: 30 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 ranking 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 68 funtion: unknow]pact get_chance_times 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact get_lottery_num 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_block 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 my_rewards 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact my_rewards 
+2018-11-15 11:17:13[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 roll 
+2018-11-15 11:17:14[D:\xampp\htdocs\activity\index.php: line: 62 funtion: unknow]pact roll 
+2018-11-15 16:00:55[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_activity 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 30 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 ranking 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 68 funtion: unknow]pact get_chance_times 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact get_lottery_num 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_block 
+2018-11-15 16:00:57[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 16:00:58[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 my_rewards 
+2018-11-15 16:00:58[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact my_rewards 
+2018-11-15 16:00:58[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 roll 
+2018-11-15 16:00:58[D:\xampp\htdocs\activity\index.php: line: 62 funtion: unknow]pact roll 
+2018-11-15 16:01:07[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_activity 
+2018-11-15 16:01:07[D:\xampp\htdocs\activity\index.php: line: 30 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 16:01:07[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 ranking 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 68 funtion: unknow]pact get_chance_times 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact get_lottery_num 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_block 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 my_rewards 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact my_rewards 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 roll 
+2018-11-15 16:01:08[D:\xampp\htdocs\activity\index.php: line: 62 funtion: unknow]pact roll 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_activity 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 30 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 ranking 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 68 funtion: unknow]pact get_chance_times 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact get_lottery_num 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_block 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 my_rewards 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact my_rewards 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 roll 
+2018-11-15 16:01:12[D:\xampp\htdocs\activity\index.php: line: 62 funtion: unknow]pact roll 
+2018-11-15 16:36:50[D:\xampp\htdocs\activity\index.php: line: 8 funtion: unknow]获取协议号 show_block 
+2018-11-15 16:36:50[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 17:44:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号  
+2018-11-15 17:44:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:44:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:44:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:44:45[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:44:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:46[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 17:44:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:44:46[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:44:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:46[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 17:44:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:44:47[D:\xampp\htdocs\activity\index.php: line: 44 funtion: unknow]pact ranking 
+2018-11-15 17:44:49[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:44:49[D:\xampp\htdocs\activity\index.php: line: 44 funtion: unknow]pact ranking 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:44:51[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 17:44:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:44:53[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact roll 
+2018-11-15 17:44:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:44:58[D:\xampp\htdocs\activity\index.php: line: 74 funtion: unknow]pact roll 
+2018-11-15 17:45:04[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:45:04[D:\xampp\htdocs\activity\index.php: line: 44 funtion: unknow]pact ranking 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 28 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 71 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 79 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:12[D:\xampp\htdocs\activity\index.php: line: 71 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 28 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 71 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 79 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:17[D:\xampp\htdocs\activity\index.php: line: 71 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:55:36[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:55:40[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:55:40[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:20[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:24[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:57:24[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:26[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:57:27[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 17:57:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 17:57:28[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 17:57:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:57:30[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:57:50[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:57:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:57:53[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:57:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:57:59[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:58:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:18[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:58:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:20[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:58:21[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:58:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:58:26[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:44[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:58:56[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:58:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:58:58[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:58:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 17:59:00[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:59:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 17:59:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 17:59:48[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:01:23[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:24[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:01:28[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:01:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:28[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:01:29[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:01:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:29[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:30[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:01:30[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:47[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:01:48[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:02:09[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:02:10[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:02:10[D:\xampp\htdocs\activity\index.php: line: 64 funtion: unknow]pact roll 
+2018-11-15 18:02:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 my_rewards 
+2018-11-15 18:02:17[D:\xampp\htdocs\activity\index.php: line: 87 funtion: unknow]pact my_rewards 
+2018-11-15 18:02:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:02:21[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 18:02:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:02:22[D:\xampp\htdocs\activity\index.php: line: 34 funtion: unknow]pact ranking 
+2018-11-15 18:04:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:04:20[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:04:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:04:21[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:22[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:46[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:56[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:04:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:04:58[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:02[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:05:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:28[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:37[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:05:38[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:39[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:42[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:05:43[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:05:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:05:45[D:\xampp\htdocs\activity\index.php: line: 76 funtion: unknow]pact roll 
+2018-11-15 18:05:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:05:51[D:\xampp\htdocs\activity\index.php: line: 76 funtion: unknow]pact roll 
+2018-11-15 18:06:32[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:06:32[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:06:32[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:33[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:06:33[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:06:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:33[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:40[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:06:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:46[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:06:46[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:06:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:47[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:06:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:06:47[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:06:47[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:06:47[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:19[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:20[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:24[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:25[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:07:27[D:\xampp\htdocs\activity\index.php: line: 76 funtion: unknow]pact roll 
+2018-11-15 18:07:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:07:36[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:07:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:37[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:07:37[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:07:37[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:07:39[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:07:39[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:08:17[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:08:29[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:16[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:09:17[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:19[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:09:21[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:44[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:45[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:52[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:53[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:54[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:55[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:55[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:56[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:09:59[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:00[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:10:00[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:10:03[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:04[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:04[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:10:04[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:10:04[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:05[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:05[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:10:05[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:10:05[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:05[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:10:09[D:\xampp\htdocs\activity\index.php: line: 32 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:10:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:09[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:10:10[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:10:10[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:10[D:\xampp\htdocs\activity\index.php: line: 75 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:10[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:10:10[D:\xampp\htdocs\activity\index.php: line: 67 funtion: unknow]pact roll 
+2018-11-15 18:10:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:10:16[D:\xampp\htdocs\activity\index.php: line: 67 funtion: unknow]pact roll 
+2018-11-15 18:10:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:10:22[D:\xampp\htdocs\activity\index.php: line: 67 funtion: unknow]pact roll 
+2018-11-15 18:10:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2018-11-15 18:10:27[D:\xampp\htdocs\activity\index.php: line: 67 funtion: unknow]pact roll 
+2018-11-15 18:10:34[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:10:34[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:10:36[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:10:36[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:10:38[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:10:38[D:\xampp\htdocs\activity\index.php: line: 37 funtion: unknow]pact ranking 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 20 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 92 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:10:51[D:\xampp\htdocs\activity\index.php: line: 84 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:11:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:08[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:11:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:11:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:18[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:20[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:21[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:24[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:24[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:25[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:25[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:25[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:26[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:28[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:12:29[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:08[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:09[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:14[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:14[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:14[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:14[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:14[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:15[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:16[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:17[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:17[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:17[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:18[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:18[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:19[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:20[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:21[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:22[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:25[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:26[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:27[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:30[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 39 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 90 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:13:31[D:\xampp\htdocs\activity\index.php: line: 82 funtion: unknow]pact get_chance_times 
+2018-11-15 18:51:11[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:51:11[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:51:11[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:51:11[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:06[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 85 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 93 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:07[D:\xampp\htdocs\activity\index.php: line: 85 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 40 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 91 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:18[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"result":1,"msg":"展示活动图标","img":"http:\/\/192.168.0.140:9096\/res\/suspension\/log.ico","activity":"http:\/\/192.168.0.140:9096\/activity\/index.php"} 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 40 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 91 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:33[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"msg":"活动不存在","result":-1,"val":null} 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 40 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 91 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:51[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"msg":"活动不存在","result":-1,"val":null} 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 40 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 91 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:52:52[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 18 funtion: unknow]pact show activity {"msg":"活动不存在","result":-1,"val":null} 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 40 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 91 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:53:35[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:53:36[D:\xampp\htdocs\activity\index.php: line: 83 funtion: unknow]pact get_chance_times 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 30 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 73 funtion: unknow]pact get_chance_times 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 81 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:53:57[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:53:58[D:\xampp\htdocs\activity\index.php: line: 73 funtion: unknow]pact get_chance_times 
+2018-11-15 18:53:59[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:53:59[D:\xampp\htdocs\activity\index.php: line: 35 funtion: unknow]pact ranking 
+2018-11-15 18:54:00[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2018-11-15 18:54:00[D:\xampp\htdocs\activity\index.php: line: 35 funtion: unknow]pact ranking 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:41[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:42[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:43[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:45[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:46[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:49[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:49[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:49[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:50[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:50[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:50[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:50[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:52[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:58:53[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:59:02[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 29 funtion: unknow]pact show activity {"msg":"活动信息回调成功","result":1,"val":null,"list":{"inviting":1,"invited":0,"newgift":0,"backuser":0,"ranking":1,"lottery":1,"signin":1}} 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 80 funtion: unknow]pact get_lottery_num 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2018-11-15 18:59:26[D:\xampp\htdocs\activity\index.php: line: 72 funtion: unknow]pact get_chance_times 

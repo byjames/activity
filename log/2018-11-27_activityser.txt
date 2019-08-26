@@ -1,0 +1,1 @@
+2018-11-27 20:00:44[D:\xampp\htdocs\activity\lib\activityser.php: line: 35 funtion: __construct]activites ser app id is null  

@@ -1,0 +1,132 @@
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:06:58[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:06:58[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:06:58[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:06:59[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:06:59[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:06:59[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:07:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:07:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:07:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:30[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:30[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:30[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:47[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:47[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:47[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 11:10:10[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 11:10:10[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 11:10:10[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:28[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 89 funtion: setRedisPrefix]$this->redis_prefixgank_activites 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 67 funtion: __construct]redis connect ok 
+2018-11-19 13:27:42[D:\xampp\htdocs\activity\lib\xredis.php: line: 71 funtion: __construct]redis auth ::: pass failuer 

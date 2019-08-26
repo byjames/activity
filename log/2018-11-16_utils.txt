@@ -1,0 +1,445 @@
+2018-11-16 10:55:56[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:56[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:57:08[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:57:08[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"":null,"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"":null,"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/data/stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\utils.php: line: 342 funtion: getPrizeRand]&&&&&&&&&&&&++ {"1":200,"2":50,"3":1,"4":100,"5":200,"6":100} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:31:42[D:\xampp\htdocs\activity\lib\utils.php: line: 467 funtion: mkdirFile]#### D:/xampp/htdocs/res/data/ stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json {"appid":"6","channel_id":0,"server_min":1,"server_max":10,"channel_code":"aiweiyou","type":"power","ranking_rule":"[{\"rank\":1,\"serverName\":\"传奇来了10区\",\"power\":841124152,\"name\":\"十分浪漫\",\"uid\":\"288722957\"},{\"rank\":2,\"serverName\":\"传奇来了10区\",\"power\":832868086,\"name\":\"借个火\",\"uid\":\"422237544\"},{\"rank\":3,\"serverName\":\"传奇来了10区\",\"power\":732874968,\"name\":\"劲大大\",\"uid\":\"305750583\"},{\"rank\":4,\"serverName\":\"传奇来了10区\",\"power\":323692751,\"name\":\"霞衣阿姨个紫\",\"uid\":\"303839440\"},{\"rank\":5,\"serverName\":\"传奇来了10区\",\"power\":270829748,\"name\":\"Baby娜娜\",\"uid\":\"313552516\"},{\"rank\":6,\"serverName\":\"传奇来了10区\",\"power\":232245779,\"name\":\"缚己\",\"uid\":\"413281885\"},{\"rank\":7,\"serverName\":\"传奇来了10区\",\"power\":188783411,\"name\":\"十分❤️娜娜\",\"uid\":\"303882383\"},{\"rank\":8,\"serverName\":\"传奇来了10区\",\"power\":173573511,\"name\":\"Angel∞\",\"uid\":\"420169942\"},{\"rank\":9,\"serverName\":\"传奇来了10区\",\"power\":113813970,\"name\":\"☞很粗很长\",\"uid\":\"306819193\"},{\"rank\":10,\"serverName\":\"传奇来了10区\",\"power\":112112469,\"name\":\"Q祺\",\"uid\":\"300277901\"},{\"rank\":11,\"serverName\":\"传奇来了10区\",\"power\":111208339,\"name\":\"我没钱怼不过\",\"uid\":\"291887055\"},{\"rank\":12,\"serverName\":\"传奇来了10区\",\"power\":110252276,\"name\":\"钱大大\",\"uid\":\"311860229\"},{\"rank\":13,\"serverName\":\"传奇来了10区\",\"power\":108177372,\"name\":\"天黑就回冢\",\"uid\":\"308606788\"},{\"rank\":14,\"serverName\":\"传奇来了10区\",\"power\":87229812,\"name\":\"沙城霸主\",\"uid\":\"296721541\"},{\"rank\":15,\"serverName\":\"传奇来了10区\",\"power\":75771785,\"name\":\"碧海瑶\",\"uid\":\"295293192\"},{\"rank\":16,\"serverName\":\"传奇来了10区\",\"power\":69398353,\"name\":\"井远航\",\"uid\":\"427210445\"},{\"rank\":17,\"serverName\":\"传奇来了10区\",\"power\":65065320,\"name\":\"风云小太保\",\"uid\":\"318922631\"},{\"rank\":18,\"serverName\":\"传奇来了10区\",\"power\":64084030,\"name\":\"狂战真君\",\"uid\":\"420358936\"},{\"rank\":19,\"serverName\":\"传奇来了10区\",\"power\":62777725,\"name\":\"杀猪18年\",\"uid\":\"406218979\"},{\"rank\":20,\"serverName\":\"传奇来了10区\",\"power\":62101438,\"name\":\"倪雪莲\",\"uid\":\"423013501\"},{\"rank\":21,\"serverName\":\"传奇来了10区\",\"power\":60977476,\"name\":\"红色大裤衩儿\",\"uid\":\"316352733\"},{\"rank\":22,\"serverName\":\"传奇来了10区\",\"power\":60724859,\"name\":\"太史夜蕾\",\"uid\":\"324844298\"},{\"rank\":23,\"serverName\":\"传奇来了10区\",\"power\":59212553,\"name\":\"传奇の小鬼\",\"uid\":\"292465946\"},{\"rank\":24,\"serverName\":\"传奇来了10区\",\"power\":58119185,\"name\":\"可惜没如果\",\"uid\":\"305055239\"},{\"rank\":25,\"serverName\":\"传奇来了10区\",\"power\":57512185,\"name\":\"宝贝小娜娜\",\"uid\":\"308242567\"},{\"rank\":26,\"serverName\":\"传奇来了10区\",\"power\":57203220,\"name\":\"盛世☬念梦\",\"uid\":\"293211252\"},{\"rank\":27,\"serverName\":\"传奇来了10区\",\"power\":55881168,\"name\":\"¥凡人¥\",\"uid\":\"337040296\"},{\"rank\":28,\"serverName\":\"传奇来了10区\",\"power\":54800389,\"name\":\"Sao动人心\",\"uid\":\"438607854\"},{\"rank\":29,\"serverName\":\"传奇来了10区\",\"power\":50317343,\"name\":\"伊寒烟\",\"uid\":\"420208977\"},{\"rank\":30,\"serverName\":\"传奇来了10区\",\"power\":49657800,\"name\":\"红色小裤衩儿\",\"uid\":\"419518691\"},{\"rank\":31,\"serverName\":\"传奇来了10区\",\"power\":47390437,\"name\":\"HO绿茶OH\",\"uid\":\"418767825\"},{\"rank\":32,\"serverName\":\"传奇来了10区\",\"power\":44629845,\"name\":\"东方俊\",\"uid\":\"395249806\"},{\"rank\":33,\"serverName\":\"传奇来了10区\",\"power\":44067841,\"name\":\"盛世是个坑\",\"uid\":\"287904766\"},{\"rank\":34,\"serverName\":\"传奇来了10区\",\"power\":43700868,\"name\":\"高白莲\",\"uid\":\"290140874\"},{\"rank\":35,\"serverName\":\"传奇来了10区\",\"power\":43683846,\"name\":\"风云丶小可爱\",\"uid\":\"313396752\"},{\"rank\":36,\"serverName\":\"传奇来了10区\",\"power\":42029381,\"name\":\"云游天下\",\"uid\":\"312800159\"},{\"rank\":37,\"serverName\":\"传奇来了10区\",\"power\":41944456,\"name\":\"咫尺VS问玉\",\"uid\":\"297710503\"},{\"rank\":38,\"serverName\":\"传奇来了10区\",\"power\":38833403,\"name\":\"魂轩皇\",\"uid\":\"390733135\"},{\"rank\":39,\"serverName\":\"传奇来了10区\",\"power\":38030156,\"name\":\"小宝嘟嘟\",\"uid\":\"311096385\"},{\"rank\":40,\"serverName\":\"传奇来了10区\",\"power\":37019160,\"name\":\"庄笑白\",\"uid\":\"294325608\"},{\"rank\":41,\"serverName\":\"传奇来了10区\",\"power\":35902911,\"name\":\"钱傲松\",\"uid\":\"298583141\"},{\"rank\":42,\"serverName\":\"传奇来了10区\",\"power\":35728204,\"name\":\"逗比王子\",\"uid\":\"425138680\"},{\"rank\":43,\"serverName\":\"传奇来了10区\",\"power\":35303358,\"name\":\"可卡\",\"uid\":\"300190625\"},{\"rank\":44,\"serverName\":\"传奇来了10区\",\"power\":34884765,\"name\":\"康尔岚\",\"uid\":\"298831307\"},{\"rank\":45,\"serverName\":\"传奇来了10区\",\"power\":34842188,\"name\":\"演戏丶\",\"uid\":\"302965950\"},{\"rank\":46,\"serverName\":\"传奇来了10区\",\"power\":34308246,\"name\":\"尤听云\",\"uid\":\"290998133\"},{\"rank\":47,\"serverName\":\"传奇来了10区\",\"power\":34285902,\"name\":\"混混\",\"uid\":\"419307625\"},{\"rank\":48,\"serverName\":\"传奇来了10区\",\"power\":32624827,\"name\":\"馨V傲南\",\"uid\":\"296071094\"},{\"rank\":49,\"serverName\":\"传奇来了10区\",\"power\":32593993,\"name\":\"傅凌蝶\",\"uid\":\"289135313\"},{\"rank\":50,\"serverName\":\"传奇来了10区\",\"power\":32519145,\"name\":\"郜亦丝\",\"uid\":\"419498887\"},{\"rank\":51,\"serverName\":\"传奇来了10区\",\"power\":32143425,\"name\":\"满多\",\"uid\":\"409137498\"},{\"rank\":52,\"serverName\":\"传奇来了10区\",\"power\":32105091,\"name\":\"九天极光\",\"uid\":\"423072542\"},{\"rank\":53,\"serverName\":\"传奇来了10区\",\"power\":32075927,\"name\":\"邴雅楠陆哥\",\"uid\":\"297798452\"},{\"rank\":54,\"serverName\":\"传奇来了10区\",\"power\":31905828,\"name\":\"颓废\",\"uid\":\"306204087\"},{\"rank\":55,\"serverName\":\"传奇来了10区\",\"power\":31361805,\"name\":\"朕射你无罪\",\"uid\":\"289565065\"},{\"rank\":56,\"serverName\":\"传奇来了10区\",\"power\":31341763,\"name\":\"妖女\",\"uid\":\"423583010\"},{\"rank\":57,\"serverName\":\"传奇来了10区\",\"power\":31176092,\"name\":\"归去来兮\",\"uid\":\"302396176\"},{\"rank\":58,\"serverName\":\"传奇来了10区\",\"power\":30886503,\"name\":\"皇丶戰神\",\"uid\":\"315153004\"},{\"rank\":59,\"serverName\":\"传奇来了10区\",\"power\":30768699,\"name\":\"红色小番茄\",\"uid\":\"422134647\"},{\"rank\":60,\"serverName\":\"传奇来了10区\",\"power\":30536348,\"name\":\"VIP1\",\"uid\":\"395783058\"},{\"rank\":61,\"serverName\":\"传奇来了10区\",\"power\":29875296,\"name\":\"吞噬丶迎夏\",\"uid\":\"295977636\"},{\"rank\":62,\"serverName\":\"传奇来了10区\",\"power\":29855910,\"name\":\"终半莲\",\"uid\":\"425131120\"},{\"rank\":63,\"serverName\":\"传奇来了10区\",\"power\":29455397,\"name\":\"宇文凝阳\",\"uid\":\"304035147\"},{\"rank\":64,\"serverName\":\"传奇来了10区\",\"power\":29441865,\"name\":\"剜心de听双\",\"uid\":\"330681292\"},{\"rank\":65,\"serverName\":\"传奇来了10区\",\"power\":28568379,\"name\":\"꧁༺聖༻꧂\",\"uid\":\"316275455\"},{\"rank\":66,\"serverName\":\"传奇来了10区\",\"power\":27905633,\"name\":\"板你一砖\",\"uid\":\"317005665\"},{\"rank\":67,\"serverName\":\"传奇来了10区\",\"power\":27687317,\"name\":\"蒙蔽の代萱\",\"uid\":\"385141494\"},{\"rank\":68,\"serverName\":\"传奇来了10区\",\"power\":27587067,\"name\":\"海蓝の乐松\",\"uid\":\"418928544\"},{\"rank\":69,\"serverName\":\"传奇来了10区\",\"power\":27514563,\"name\":\"传奇VS冰菱\",\"uid\":\"299348658\"},{\"rank\":70,\"serverName\":\"传奇来了10区\",\"power\":27514338,\"name\":\"遇见未知自己\",\"uid\":\"418739942\"},{\"rank\":71,\"serverName\":\"传奇来了10区\",\"power\":27198357,\"name\":\"天黑就回家\",\"uid\":\"439181756\"},{\"rank\":72,\"serverName\":\"传奇来了10区\",\"power\":27149256,\"name\":\"邓飞绿\",\"uid\":\"313429867\"},{\"rank\":73,\"serverName\":\"传奇来了10区\",\"power\":26903292,\"name\":\"行者无疆\",\"uid\":\"482637805\"},{\"rank\":74,\"serverName\":\"传奇来了10区\",\"power\":26899537,\"name\":\"流星Oo依柔\",\"uid\":\"292491050\"},{\"rank\":75,\"serverName\":\"传奇来了10区\",\"power\":26783157,\"name\":\"守护大蜗牛\",\"uid\":\"296765146\"},{\"rank\":76,\"serverName\":\"传奇来了10区\",\"power\":26661046,\"name\":\"梵天\",\"uid\":\"297061952\"},{\"rank\":77,\"serverName\":\"传奇来了10区\",\"power\":26632649,\"name\":\"奶牛粑粑\",\"uid\":\"306315902\"},{\"rank\":78,\"serverName\":\"传奇来了10区\",\"power\":26509202,\"name\":\"谷代曼\",\"uid\":\"307366440\"},{\"rank\":79,\"serverName\":\"传奇来了10区\",\"power\":25681922,\"name\":\"君莫笑.s67\",\"uid\":\"310197907\"},{\"rank\":80,\"serverName\":\"传奇来了10区\",\"power\":25574438,\"name\":\"时光丶惜海\",\"uid\":\"287281400\"},{\"rank\":81,\"serverName\":\"传奇来了10区\",\"power\":25551589,\"name\":\"孤独\",\"uid\":\"288585799\"},{\"rank\":82,\"serverName\":\"传奇来了10区\",\"power\":25389268,\"name\":\"噹哩個噹\",\"uid\":\"308106937\"},{\"rank\":83,\"serverName\":\"传奇来了10区\",\"power\":25263865,\"name\":\"楠\",\"uid\":\"302970153\"},{\"rank\":84,\"serverName\":\"传奇来了10区\",\"power\":24795010,\"name\":\"鱼以彤\",\"uid\":\"409969888\"},{\"rank\":85,\"serverName\":\"传奇来了10区\",\"power\":24789182,\"name\":\"栖息Oo白桃\",\"uid\":\"299564218\"},{\"rank\":86,\"serverName\":\"传奇来了10区\",\"power\":24597398,\"name\":\"公孙冰岚\",\"uid\":\"306825308\"},{\"rank\":87,\"serverName\":\"传奇来了10区\",\"power\":24504257,\"name\":\"馨V静柏\",\"uid\":\"310335205\"},{\"rank\":88,\"serverName\":\"传奇来了10区\",\"power\":24436723,\"name\":\"玩味丶春柔\",\"uid\":\"296545192\"},{\"rank\":89,\"serverName\":\"传奇来了10区\",\"power\":24287821,\"name\":\"馨Oo夜南\",\"uid\":\"302751431\"},{\"rank\":90,\"serverName\":\"传奇来了10区\",\"power\":23984581,\"name\":\"秋晓兰\",\"uid\":\"296650212\"},{\"rank\":91,\"serverName\":\"传奇来了10区\",\"power\":23472379,\"name\":\"演员\",\"uid\":\"301508734\"},{\"rank\":92,\"serverName\":\"传奇来了10区\",\"power\":23255043,\"name\":\"项代容\",\"uid\":\"290784722\"},{\"rank\":93,\"serverName\":\"传奇来了10区\",\"power\":23185196,\"name\":\"猛虎细嗅蔷薇\",\"uid\":\"390658701\"},{\"rank\":94,\"serverName\":\"传奇来了10区\",\"power\":23056846,\"name\":\"雁肺哥\",\"uid\":\"428366391\"},{\"rank\":95,\"serverName\":\"传奇来了10区\",\"power\":22808742,\"name\":\"谁与争锋\",\"uid\":\"411265695\"},{\"rank\":96,\"serverName\":\"传奇来了10区\",\"power\":22794965,\"name\":\"彭沛柔\",\"uid\":\"406204918\"},{\"rank\":97,\"serverName\":\"传奇来了10区\",\"power\":22564588,\"name\":\"季初珍\",\"uid\":\"315762029\"},{\"rank\":98,\"serverName\":\"传奇来了10区\",\"power\":22195055,\"name\":\"储凡蕾\",\"uid\":\"310535857\"},{\"rank\":99,\"serverName\":\"传奇来了10区\",\"power\":21832024,\"name\":\"弃坑的花臂\",\"uid\":\"319758566\"},{\"rank\":100,\"serverName\":\"传奇来了10区\",\"power\":21374481,\"name\":\"M.s1\",\"uid\":\"296274731\"},{\"rank\":101,\"serverName\":\"传奇来了10区\",\"power\":21306964,\"name\":\"养心殿\",\"uid\":\"298992375\"},{\"rank\":102,\"serverName\":\"传奇来了10区\",\"power\":21022861,\"name\":\"郎冰夏\",\"uid\":\"305366850\"},{\"rank\":103,\"serverName\":\"传奇来了10区\",\"power\":20895895,\"name\":\"童若烟\",\"uid\":\"308524005\"},{\"rank\":104,\"serverName\":\"传奇来了10区\",\"power\":20886181,\"name\":\"公羊静柏\",\"uid\":\"288550671\"},{\"rank\":105,\"serverName\":\"传奇来了10区\",\"power\":20828903,\"name\":\"木木\",\"uid\":\"292283476\"},{\"rank\":106,\"serverName\":\"传奇来了10区\",\"power\":20752700,\"name\":\"秒杀口水王\",\"uid\":\"296175071\"},{\"rank\":107,\"serverName\":\"传奇来了10区\",\"power\":20729128,\"name\":\"大洋柿子\",\"uid\":\"321469240\"},{\"rank\":108,\"serverName\":\"传奇来了10区\",\"power\":20195366,\"name\":\"紅色小S袜儿\",\"uid\":\"419833356\"},{\"rank\":109,\"serverName\":\"传奇来了10区\",\"power\":20106467,\"name\":\"红色小罩罩\",\"uid\":\"428641321\"},{\"rank\":110,\"serverName\":\"传奇来了10区\",\"power\":20069111,\"name\":\"叶涵双\",\"uid\":\"295111889\"},{\"rank\":111,\"serverName\":\"传奇来了10区\",\"power\":19927908,\"name\":\"何处不相逢\",\"uid\":\"306219776\"},{\"rank\":112,\"serverName\":\"传奇来了10区\",\"power\":19536955,\"name\":\"一见♥倾心\",\"uid\":\"574802825\"},{\"rank\":113,\"serverName\":\"传奇来了10区\",\"power\":19533377,\"name\":\"挨刀的杨\",\"uid\":\"419617737\"},{\"rank\":114,\"serverName\":\"传奇来了10区\",\"power\":19478371,\"name\":\"萧破军\",\"uid\":\"419474681\"},{\"rank\":115,\"serverName\":\"传奇来了10区\",\"power\":19111523,\"name\":\"羿小玉\",\"uid\":\"292365105\"},{\"rank\":116,\"serverName\":\"传奇来了10区\",\"power\":19036262,\"name\":\"明暗de谷秋\",\"uid\":\"370125582\"},{\"rank\":117,\"serverName\":\"传奇来了10区\",\"power\":18692961,\"name\":\"虾虾\",\"uid\":\"310715801\"},{\"rank\":118,\"serverName\":\"传奇来了10区\",\"power\":18407611,\"name\":\"党\",\"uid\":\"306855078\"},{\"rank\":119,\"serverName\":\"传奇来了10区\",\"power\":18302194,\"name\":\"杀太狼\",\"uid\":\"393392905\"},{\"rank\":120,\"serverName\":\"传奇来了10区\",\"power\":18243104,\"name\":\"汤包\",\"uid\":\"313405721\"},{\"rank\":121,\"serverName\":\"传奇来了10区\",\"power\":18177096,\"name\":\"曙光丶灵安\",\"uid\":\"287728372\"},{\"rank\":122,\"serverName\":\"传奇来了10区\",\"power\":18088666,\"name\":\"鬼吹灯\",\"uid\":\"303034207\"},{\"rank\":123,\"serverName\":\"传奇来了10区\",\"power\":18011344,\"name\":\"曲终洛尘静\",\"uid\":\"419903880\"},{\"rank\":124,\"serverName\":\"传奇来了10区\",\"power\":17988764,\"name\":\"¥¥¥¥¥\",\"uid\":\"306430518\"},{\"rank\":125,\"serverName\":\"传奇来了10区\",\"power\":17890845,\"name\":\"四维\",\"uid\":\"294653535\"},{\"rank\":126,\"serverName\":\"传奇来了10区\",\"power\":17861109,\"name\":\"杰哥来了\",\"uid\":\"342141192\"},{\"rank\":127,\"serverName\":\"传奇来了10区\",\"power\":17562972,\"name\":\"聂小倩\",\"uid\":\"335888922\"},{\"rank\":128,\"serverName\":\"传奇来了10区\",\"power\":17457012,\"name\":\"小野哥\",\"uid\":\"305238486\"},{\"rank\":129,\"serverName\":\"传奇来了10区\",\"power\":17415436,\"name\":\"德国MAN\",\"uid\":\"294715501\"},{\"rank\":130,\"serverName\":\"传奇来了10区\",\"power\":17377580,\"name\":\"任天菱\",\"uid\":\"287492744\"},{\"rank\":131,\"serverName\":\"传奇来了10区\",\"power\":17343879,\"name\":\"冯如之\",\"uid\":\"291745275\"},{\"rank\":132,\"serverName\":\"传奇来了10区\",\"power\":17240225,\"name\":\"阿胖多\",\"uid\":\"301004637\"},{\"rank\":133,\"serverName\":\"传奇来了10区\",\"power\":17224369,\"name\":\"花谷芹\",\"uid\":\"389718933\"},{\"rank\":134,\"serverName\":\"传奇来了10区\",\"power\":17190238,\"name\":\"砍你没商量\",\"uid\":\"316103908\"},{\"rank\":135,\"serverName\":\"传奇来了10区\",\"power\":17139239,\"name\":\"陈氏の虫虫\",\"uid\":\"389558871\"},{\"rank\":136,\"serverName\":\"传奇来了10区\",\"power\":17012535,\"name\":\"牧以旋\",\"uid\":\"316968988\"},{\"rank\":137,\"serverName\":\"传奇来了10区\",\"power\":16935503,\"name\":\"地狱魂十五\",\"uid\":\"306381649\"},{\"rank\":138,\"serverName\":\"传奇来了10区\",\"power\":16918724,\"name\":\"刘德华.s71\",\"uid\":\"296916139\"},{\"rank\":139,\"serverName\":\"传奇来了10区\",\"power\":16898088,\"name\":\"疯狂¥再战\",\"uid\":\"323882561\"},{\"rank\":140,\"serverName\":\"传奇来了10区\",\"power\":16874871,\"name\":\"岑安寒\",\"uid\":\"291680433\"},{\"rank\":141,\"serverName\":\"传奇来了10区\",\"power\":16795600,\"name\":\"嵇寄瑶\",\"uid\":\"422584663\"},{\"rank\":142,\"serverName\":\"传奇来了10区\",\"power\":16785390,\"name\":\"Vince\",\"uid\":\"305940043\"},{\"rank\":143,\"serverName\":\"传奇来了10区\",\"power\":16699336,\"name\":\"永恒法师\",\"uid\":\"317195763\"},{\"rank\":144,\"serverName\":\"传奇来了10区\",\"power\":16686308,\"name\":\"亻氐讠周\",\"uid\":\"418215417\"},{\"rank\":145,\"serverName\":\"传奇来了10区\",\"power\":16637571,\"name\":\"荣耀Oo盼曼\",\"uid\":\"317019109\"},{\"rank\":146,\"serverName\":\"传奇来了10区\",\"power\":16631254,\"name\":\"笙歌の灵薇\",\"uid\":\"429685706\"},{\"rank\":147,\"serverName\":\"传奇来了10区\",\"power\":16611312,\"name\":\"沉年\",\"uid\":\"316209640\"},{\"rank\":148,\"serverName\":\"传奇来了10区\",\"power\":16576855,\"name\":\"芮梦松\",\"uid\":\"298262182\"},{\"rank\":149,\"serverName\":\"传奇来了10区\",\"power\":16560443,\"name\":\"东离\",\"uid\":\"315924549\"},{\"rank\":150,\"serverName\":\"传奇来了10区\",\"power\":16555251,\"name\":\"负荷Oo怀曼\",\"uid\":\"301976002\"},{\"rank\":151,\"serverName\":\"传奇来了10区\",\"power\":16274642,\"name\":\"奢华\",\"uid\":\"304916462\"},{\"rank\":152,\"serverName\":\"传奇来了10区\",\"power\":16254531,\"name\":\"安梓の尔曼\",\"uid\":\"305815521\"},{\"rank\":153,\"serverName\":\"传奇来了10区\",\"power\":16195010,\"name\":\"笙歌の千秋\",\"uid\":\"345818291\"},{\"rank\":154,\"serverName\":\"传奇来了10区\",\"power\":16115325,\"name\":\"鱼慕蕊\",\"uid\":\"291468571\"},{\"rank\":155,\"serverName\":\"传奇来了10区\",\"power\":16078775,\"name\":\"冲冲冲杀杀杀\",\"uid\":\"427258728\"},{\"rank\":156,\"serverName\":\"传奇来了10区\",\"power\":16022479,\"name\":\"夜比白多\",\"uid\":\"403325933\"},{\"rank\":157,\"serverName\":\"传奇来了10区\",\"power\":16014270,\"name\":\"床上定人妻\",\"uid\":\"310710230\"},{\"rank\":158,\"serverName\":\"传奇来了10区\",\"power\":16004608,\"name\":\"蔡映易\",\"uid\":\"305817630\"},{\"rank\":159,\"serverName\":\"传奇来了10区\",\"power\":15887341,\"name\":\"聪头汤\",\"uid\":\"412630088\"},{\"rank\":160,\"serverName\":\"传奇来了10区\",\"power\":15852539,\"name\":\"珍惜\",\"uid\":\"303772773\"},{\"rank\":161,\"serverName\":\"传奇来了10区\",\"power\":15821202,\"name\":\"宿瑾萱\",\"uid\":\"312551177\"},{\"rank\":162,\"serverName\":\"传奇来了10区\",\"power\":15776316,\"name\":\"哥伦比亚\",\"uid\":\"417713180\"},{\"rank\":163,\"serverName\":\"传奇来了10区\",\"power\":15747984,\"name\":\"酆初露\",\"uid\":\"422327769\"},{\"rank\":164,\"serverName\":\"传奇来了10区\",\"power\":15611923,\"name\":\"龍亣爺\",\"uid\":\"321236244\"},{\"rank\":165,\"serverName\":\"传奇来了10区\",\"power\":15609141,\"name\":\"学姐\",\"uid\":\"287911458\"},{\"rank\":166,\"serverName\":\"传奇来了10区\",\"power\":15534846,\"name\":\"落脂V秋寒\",\"uid\":\"299579251\"},{\"rank\":167,\"serverName\":\"传奇来了10区\",\"power\":15506031,\"name\":\"慕容冰绿\",\"uid\":\"314216395\"},{\"rank\":168,\"serverName\":\"传奇来了10区\",\"power\":15471603,\"name\":\"闻\",\"uid\":\"298677717\"},{\"rank\":169,\"serverName\":\"传奇来了10区\",\"power\":15407147,\"name\":\"无敌天尊\",\"uid\":\"305181339\"},{\"rank\":170,\"serverName\":\"传奇来了10区\",\"power\":15382866,\"name\":\"牙尔竹\",\"uid\":\"292379664\"},{\"rank\":171,\"serverName\":\"传奇来了10区\",\"power\":15351320,\"name\":\"神棍\",\"uid\":\"336732062\"},{\"rank\":172,\"serverName\":\"传奇来了10区\",\"power\":15330000,\"name\":\"曾經滄海\",\"uid\":\"400215519\"},{\"rank\":173,\"serverName\":\"传奇来了10区\",\"power\":15241049,\"name\":\"余生疗伤期\",\"uid\":\"320677825\"},{\"rank\":174,\"serverName\":\"传奇来了10区\",\"power\":15133564,\"name\":\"流星Oo乐萱\",\"uid\":\"418673193\"},{\"rank\":175,\"serverName\":\"传奇来了10区\",\"power\":15110118,\"name\":\"奕奕\",\"uid\":\"297530253\"},{\"rank\":176,\"serverName\":\"传奇来了10区\",\"power\":15054153,\"name\":\"恶魔狂战\",\"uid\":\"294198044\"},{\"rank\":177,\"serverName\":\"传奇来了10区\",\"power\":15029861,\"name\":\"禄书兰\",\"uid\":\"321932669\"},{\"rank\":178,\"serverName\":\"传奇来了10区\",\"power\":14975631,\"name\":\"萧香柏\",\"uid\":\"295499089\"},{\"rank\":179,\"serverName\":\"传奇来了10区\",\"power\":14964895,\"name\":\"冰翎幻\",\"uid\":\"303447562\"},{\"rank\":180,\"serverName\":\"传奇来了10区\",\"power\":14916235,\"name\":\"进\",\"uid\":\"287007069\"},{\"rank\":181,\"serverName\":\"传奇来了10区\",\"power\":14889692,\"name\":\"南宫依琴\",\"uid\":\"299355034\"},{\"rank\":182,\"serverName\":\"传奇来了10区\",\"power\":14634063,\"name\":\"Hunter\",\"uid\":\"291295280\"},{\"rank\":183,\"serverName\":\"传奇来了10区\",\"power\":14586178,\"name\":\"蒙蔽の凡之\",\"uid\":\"374132242\"},{\"rank\":184,\"serverName\":\"传奇来了10区\",\"power\":14579586,\"name\":\"斜线小王子\",\"uid\":\"303826818\"},{\"rank\":185,\"serverName\":\"传奇来了10区\",\"power\":14548401,\"name\":\"闭目沉思\",\"uid\":\"395485256\"},{\"rank\":186,\"serverName\":\"传奇来了10区\",\"power\":14531690,\"name\":\"鬼魂\",\"uid\":\"297778871\"},{\"rank\":187,\"serverName\":\"传奇来了10区\",\"power\":14520022,\"name\":\"幽冥教皇\",\"uid\":\"321845161\"},{\"rank\":188,\"serverName\":\"传奇来了10区\",\"power\":14491414,\"name\":\"小浣熊丶\",\"uid\":\"304461273\"},{\"rank\":189,\"serverName\":\"传奇来了10区\",\"power\":14384958,\"name\":\"豆豆豆\",\"uid\":\"291393253\"},{\"rank\":190,\"serverName\":\"传奇来了10区\",\"power\":14336256,\"name\":\"安暖Oo雁凡\",\"uid\":\"647728204\"},{\"rank\":191,\"serverName\":\"传奇来了10区\",\"power\":14321564,\"name\":\"生涩de千亦\",\"uid\":\"291811958\"},{\"rank\":192,\"serverName\":\"传奇来了10区\",\"power\":14314828,\"name\":\"曙光の寄云\",\"uid\":\"306139871\"},{\"rank\":193,\"serverName\":\"传奇来了10区\",\"power\":14228182,\"name\":\"负荷丶忆丹y\",\"uid\":\"300783708\"},{\"rank\":194,\"serverName\":\"传奇来了10区\",\"power\":14019879,\"name\":\"汤汤\",\"uid\":\"310158998\"},{\"rank\":195,\"serverName\":\"传奇来了10区\",\"power\":13996059,\"name\":\"清瑟VS醉柳\",\"uid\":\"316245625\"},{\"rank\":196,\"serverName\":\"传奇来了10区\",\"power\":13986305,\"name\":\"腐蚀Oo丹萱\",\"uid\":\"302853901\"},{\"rank\":197,\"serverName\":\"传奇来了10区\",\"power\":13816324,\"name\":\"走秀\",\"uid\":\"289736225\"},{\"rank\":198,\"serverName\":\"传奇来了10区\",\"power\":13809089,\"name\":\"别忆文\",\"uid\":\"409204223\"},{\"rank\":199,\"serverName\":\"传奇来了10区\",\"power\":13805270,\"name\":\"今晚去钓蟹\",\"uid\":\"374394455\"},{\"rank\":200,\"serverName\":\"传奇来了10区\",\"power\":13780785,\"name\":\"绿苔V翠芙\",\"uid\":\"374712203\"}]"} 
+2018-11-16 13:31:42[D:\xampp\htdocs\activity\lib\utils.php: line: 513 funtion: request_upload_curls]PATH^^^^^^^^^^^ D:/xampp/htdocs/res/data/stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json 
+2018-11-16 13:37:47[D:\xampp\htdocs\activity\lib\utils.php: line: 467 funtion: mkdirFile]#### D:/xampp/htdocs/res/data/ stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json {"appid":"6","channel_id":0,"server_min":1,"server_max":10,"channel_code":"aiweiyou","type":"power","ranking_rule":[{"rank":1,"serverName":"传奇来了10区","power":841124152,"name":"十分浪漫","uid":"288722957"},{"rank":2,"serverName":"传奇来了10区","power":832868086,"name":"借个火","uid":"422237544"},{"rank":3,"serverName":"传奇来了10区","power":732874968,"name":"劲大大","uid":"305750583"},{"rank":4,"serverName":"传奇来了10区","power":323692751,"name":"霞衣阿姨个紫","uid":"303839440"},{"rank":5,"serverName":"传奇来了10区","power":270830120,"name":"Baby娜娜","uid":"313552516"},{"rank":6,"serverName":"传奇来了10区","power":232245779,"name":"缚己","uid":"413281885"},{"rank":7,"serverName":"传奇来了10区","power":188783411,"name":"十分❤️娜娜","uid":"303882383"},{"rank":8,"serverName":"传奇来了10区","power":173573511,"name":"Angel∞","uid":"420169942"},{"rank":9,"serverName":"传奇来了10区","power":113813970,"name":"☞很粗很长","uid":"306819193"},{"rank":10,"serverName":"传奇来了10区","power":112112469,"name":"Q祺","uid":"300277901"}]} 
+2018-11-16 13:37:47[D:\xampp\htdocs\activity\lib\utils.php: line: 513 funtion: request_upload_curls]PATH^^^^^^^^^^^ D:/xampp/htdocs/res/data/stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json 
+2018-11-16 13:40:06[D:\xampp\htdocs\activity\lib\utils.php: line: 467 funtion: mkdirFile]#### D:/xampp/htdocs/res/data/ stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json {"appid":"6","channel_id":0,"server_min":1,"server_max":10,"channel_code":"aiweiyou","type":"power","ranking_rule":[{"rank":1,"serverName":"传奇来了10区","power":841124152,"name":"十分浪漫","uid":"288722957"},{"rank":2,"serverName":"传奇来了10区","power":832868086,"name":"借个火","uid":"422237544"},{"rank":3,"serverName":"传奇来了10区","power":732874968,"name":"劲大大","uid":"305750583"},{"rank":4,"serverName":"传奇来了10区","power":323692751,"name":"霞衣阿姨个紫","uid":"303839440"},{"rank":5,"serverName":"传奇来了10区","power":270830120,"name":"Baby娜娜","uid":"313552516"},{"rank":6,"serverName":"传奇来了10区","power":232245779,"name":"缚己","uid":"413281885"},{"rank":7,"serverName":"传奇来了10区","power":188783411,"name":"十分❤️娜娜","uid":"303882383"},{"rank":8,"serverName":"传奇来了10区","power":173573511,"name":"Angel∞","uid":"420169942"},{"rank":9,"serverName":"传奇来了10区","power":113813970,"name":"☞很粗很长","uid":"306819193"},{"rank":10,"serverName":"传奇来了10区","power":112112469,"name":"Q祺","uid":"300277901"}]} 
+2018-11-16 13:40:06[D:\xampp\htdocs\activity\lib\utils.php: line: 513 funtion: request_upload_curls]PATH^^^^^^^^^^^ D:/xampp/htdocs/res/data/stat_6_rGTaSneKdZ4yx_aiweiyou_ranking.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:\xampp\htdocs\res\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 175 funtion: getFileConfig]json url false D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\utils.php: line: 169 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\utils.php: line: 332 funtion: decodeDate]decode date is null 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\utils.php: line: 170 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\utils.php: line: 333 funtion: decodeDate]decode date is null 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\utils.php: line: 170 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\utils.php: line: 333 funtion: decodeDate]decode date is null 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\utils.php: line: 171 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\utils.php: line: 334 funtion: decodeDate]decode date is null 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\utils.php: line: 171 funtion: getFileConfig]open url json data null D:
+mpp\htdocses\config\6_rgtasnekdz4yx.json 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\utils.php: line: 334 funtion: decodeDate]decode date is null 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:49[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:49[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:D:/xampp/htdocs/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\utils.php: line: 154 funtion: getFileConfig]===name===6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\utils.php: line: 157 funtion: getFileConfig]&&&&&&&&&&&:http://192.168.181.133/res/config/6_rgtasnekdz4yx.json 

@@ -1,0 +1,112 @@
+2018-11-14 17:29:08[D:\xampp\htdocs\activity\act_back_ranking.php: line: 196 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:29:08[D:\xampp\htdocs\activity\act_back_ranking.php: line: 173 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:29:29[D:\xampp\htdocs\activity\act_back_ranking.php: line: 182 funtion: loadDataFile] load data file is trueee... 
+2018-11-14 17:29:29[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile]load data file is true 
+2018-11-14 17:30:33[D:\xampp\htdocs\activity\act_back_ranking.php: line: 196 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:30:33[D:\xampp\htdocs\activity\act_back_ranking.php: line: 173 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:30:34[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile] load data file is res 
+2018-11-14 17:30:34[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile]load data file is true 
+2018-11-14 17:30:52[D:\xampp\htdocs\activity\act_back_ranking.php: line: 196 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:30:52[D:\xampp\htdocs\activity\act_back_ranking.php: line: 173 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:30:52[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile] load data file is res 
+2018-11-14 17:30:52[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile]load data file is true 
+2018-11-14 17:31:09[D:\xampp\htdocs\activity\act_back_ranking.php: line: 197 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:31:09[D:\xampp\htdocs\activity\act_back_ranking.php: line: 174 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:31:09[D:\xampp\htdocs\activity\act_back_ranking.php: line: 181 funtion: loadDataFile] load data file is res 
+2018-11-14 17:31:09[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile]load data file is true 
+2018-11-14 17:31:59[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:31:59[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:31:59[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:31:59[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:32:21[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:32:21[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:32:21[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:32:21[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:32:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:32:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:32:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:32:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:33:17[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:33:17[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:33:17[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:33:17[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:35:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:35:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:35:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:35:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:35:57[D:\xampp\htdocs\activity\act_back_ranking.php: line: 199 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:35:57[D:\xampp\htdocs\activity\act_back_ranking.php: line: 176 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:35:57[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile] load data file is res 
+2018-11-14 17:35:57[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile]load data file is true 
+2018-11-14 17:38:19[D:\xampp\htdocs\activity\act_back_ranking.php: line: 201 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:38:19[D:\xampp\htdocs\activity\act_back_ranking.php: line: 178 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:38:19[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile] load data file is res 
+2018-11-14 17:38:19[D:\xampp\htdocs\activity\act_back_ranking.php: line: 189 funtion: loadDataFile]load data file is true 
+2018-11-14 17:42:18[D:\xampp\htdocs\activity\act_back_ranking.php: line: 200 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:42:18[D:\xampp\htdocs\activity\act_back_ranking.php: line: 177 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:42:18[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile] load data file is res 
+2018-11-14 17:42:18[D:\xampp\htdocs\activity\act_back_ranking.php: line: 188 funtion: loadDataFile]load data file is true 
+2018-11-14 17:44:31[D:\xampp\htdocs\activity\act_back_ranking.php: line: 201 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:44:31[D:\xampp\htdocs\activity\act_back_ranking.php: line: 178 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:44:31[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile] load data file is res 
+2018-11-14 17:44:31[D:\xampp\htdocs\activity\act_back_ranking.php: line: 189 funtion: loadDataFile]load data file is true 
+2018-11-14 17:44:38[D:\xampp\htdocs\activity\act_back_ranking.php: line: 201 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:44:38[D:\xampp\htdocs\activity\act_back_ranking.php: line: 178 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:44:38[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile] load data file is res 
+2018-11-14 17:44:38[D:\xampp\htdocs\activity\act_back_ranking.php: line: 189 funtion: loadDataFile]load data file is true 
+2018-11-14 17:50:43[D:\xampp\htdocs\activity\act_back_ranking.php: line: 201 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:50:43[D:\xampp\htdocs\activity\act_back_ranking.php: line: 178 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:50:43[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile] load data file is res 
+2018-11-14 17:50:43[D:\xampp\htdocs\activity\act_back_ranking.php: line: 189 funtion: loadDataFile]load data file is true 
+2018-11-14 17:50:58[D:\xampp\htdocs\activity\act_back_ranking.php: line: 201 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:50:58[D:\xampp\htdocs\activity\act_back_ranking.php: line: 178 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:50:58[D:\xampp\htdocs\activity\act_back_ranking.php: line: 185 funtion: loadDataFile] load data file is res 
+2018-11-14 17:50:58[D:\xampp\htdocs\activity\act_back_ranking.php: line: 189 funtion: loadDataFile]load data file is true 
+2018-11-14 17:51:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:51:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:51:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:51:23[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 17:52:15[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:52:15[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:52:15[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:52:15[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 17:53:37[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:53:37[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:53:37[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:53:37[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 17:53:48[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:53:48[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:53:48[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:53:48[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 17:54:35[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:54:35[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:54:35[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:54:35[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 17:54:49[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 17:54:49[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 17:54:49[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 17:54:49[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 18:06:36[D:\xampp\htdocs\activity\act_back_ranking.php: line: 203 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:06:36[D:\xampp\htdocs\activity\act_back_ranking.php: line: 180 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:06:36[D:\xampp\htdocs\activity\act_back_ranking.php: line: 187 funtion: loadDataFile] load data file is res 
+2018-11-14 18:06:36[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile]load data file is true 
+2018-11-14 18:12:51[D:\xampp\htdocs\activity\act_back_ranking.php: line: 204 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:12:51[D:\xampp\htdocs\activity\act_back_ranking.php: line: 181 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:12:51[D:\xampp\htdocs\activity\act_back_ranking.php: line: 188 funtion: loadDataFile] load data file is res 
+2018-11-14 18:12:51[D:\xampp\htdocs\activity\act_back_ranking.php: line: 192 funtion: loadDataFile]load data file is true 
+2018-11-14 18:13:56[D:\xampp\htdocs\activity\act_back_ranking.php: line: 207 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:13:56[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:13:56[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile] load data file is res 
+2018-11-14 18:13:56[D:\xampp\htdocs\activity\act_back_ranking.php: line: 195 funtion: loadDataFile]load data file is true 
+2018-11-14 18:15:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 207 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:15:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 184 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:15:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 191 funtion: loadDataFile] load data file is res 
+2018-11-14 18:15:46[D:\xampp\htdocs\activity\act_back_ranking.php: line: 195 funtion: loadDataFile]load data file is true 
+2018-11-14 18:17:47[D:\xampp\htdocs\activity\act_back_ranking.php: line: 206 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:17:47[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:17:47[D:\xampp\htdocs\activity\act_back_ranking.php: line: 190 funtion: loadDataFile] load data file is res 
+2018-11-14 18:17:47[D:\xampp\htdocs\activity\act_back_ranking.php: line: 194 funtion: loadDataFile]load data file is true 
+2018-11-14 18:19:10[D:\xampp\htdocs\activity\act_back_ranking.php: line: 206 funtion: back_db_channel_ranking]back channel ranking is true 
+2018-11-14 18:19:10[D:\xampp\htdocs\activity\act_back_ranking.php: line: 183 funtion: loadDataFile]D:/xampp/htdocs/res/data/ 
+2018-11-14 18:19:10[D:\xampp\htdocs\activity\act_back_ranking.php: line: 190 funtion: loadDataFile] load data file is res 
+2018-11-14 18:19:10[D:\xampp\htdocs\activity\act_back_ranking.php: line: 194 funtion: loadDataFile]load data file is true 

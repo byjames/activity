@@ -1,0 +1,364 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="author" content="tanwan"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="Description" content="每月签到手机">
+    <meta name="Keywords" content="每月签到手机">
+    <title>每月签到手机</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="warp">
+    <div class="p1"><img src="img/p1.jpg?v=1" alt=""></div>
+    <div class="p2">
+        <ul class="calendar">
+        </ul>
+    </div>
+    <div class="p3">
+        <ul class="sign">
+            <li>
+                <!-- <p class="sign_txt">·累计签到<span>1天</span>奖励·</p> -->
+                <div class="sign_img">
+                    <img src="img/sign1.png" alt="">
+                </div>
+                <a onClick="lottery(1)" class="btn">点击领取</a>
+            </li>
+            <li>
+                <div class="sign_img">
+                    <img src="img/sign2.png" alt="">
+                </div>
+                <a onClick="lottery(5)" class="btn">点击领取</a>
+            </li>
+            <li>
+                <div class="sign_img">
+                    <img src="img/sign3.png" alt="">
+                </div>
+                <a onClick="lottery(10)" class="btn">点击领取</a>
+            </li>
+            <li>
+                <div class="sign_img">
+                    <img src="img/sign4.png" alt="">
+                </div>
+                <a onClick="lottery(15)" class="btn">点击领取</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 弹出框  领取失败-->
+<div class="pop" id="errMsg" style="display:none">
+    <div class="mask"></div>
+    <div class="pop_main">
+        <a href="javascript:;" class="close">关闭</a>
+        <div class="pop_tit"><span>领取失败</span></div>
+        <div class="pop_body">
+            <p class="red" id="msg">未满足签到天数！</p>
+        </div>
+    </div>
+</div>
+
+<!-- 弹出框  领取成功-->
+<div class="pop" id="codeMsg" style="display:none">
+    <div class="mask"></div>
+    <div class="pop_main">
+        <a href="javascript:;" class="close">关闭</a>
+        <div class="pop_tit"><span>领取成功</span></div>
+        <div class="pop_body">
+            <p class="code"></p>
+            <p style="color:#d7bb7e;">长按激活码复制</p>
+        </div>
+    </div>
+</div>
+
+<!-- 弹出框  领取成功-->
+<div class="pop" id="infoMsg" style="display:none">
+    <div class="mask"></div>
+    <div class="pop_main">
+        <a href="javascript:;" class="close">关闭</a>
+        <div class="pop_tit"><span>领取成功</span></div>
+        <div class="pop_body pop_body_input">
+            <ul class="plist">
+                <li>
+                    <span class="lable">服务器</span>
+                    <div class="hd">
+                        <select class="select" name="select">
+                            <option value="1">IOS</option>
+                            <option value="2">安卓</option>
+                        </select>
+                        <span class="qf_lable">区服</span>
+                        <input class="input input_inline" name="server_id" type="text" placeholder="">
+                    </div>
+                </li>
+                <li><span class="lable">角色名</span>
+                    <div class="hd"><input style="width:85%;" class="input" name="role_name" type="text" placeholder="">
+                    </div>
+                </li>
+                <li><span class="lable">手机</span>
+                    <div class="hd"><input style="width:85%;" class="input" name="phone" type="text" placeholder="">
+                    </div>
+                </li>
+            </ul>
+            <a href="javascript:;" class="submit">提交</a>
+        </div>
+    </div>
+</div>
+<!-- 关注 -->
+<div class="pop" id="J_rwm" style="display:none;">
+    <div class="mask"></div>
+    <div class="pop_main p1" style="background:none;background-color: black;">
+        <!--         <a href="javascript:;" class="close">关闭</a> -->
+        <div class="pop_tit">请先关注公众号：魔域来了手游</div>
+        <div class="p_txt" style="margin: 1rem;">
+            <!--<img style="width:4rem;margin:.3rem auto 0;" src="img/rwm.jpg"/>-->
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="js/zepto.min.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript">
+    var deviceWidth = document.documentElement.clientWidth;
+    if (deviceWidth > 750) {
+        deviceWidth = 750
+    }
+    ;document.documentElement.style.fontSize = deviceWidth / 7.5 + 'px';
+
+    var isBusy = false;
+    $('.star_btn').on('click', function () {
+        $(this).parent().find('.avatar').addClass('cur')
+    })
+
+    $('.close').on('click', function () {
+        $(this).parents('.pop').css("display", "none");
+    });
+
+    $('.calendar').on('click', 'li', function () {//签到
+
+        var _this = this;
+        if ($(_this).hasClass('cur')) {
+
+            return false;
+        }
+
+
+        //签到动作
+        var day = $(_this).attr("name");
+        //当天签到操作判断
+        var myDate = new Date();
+        var month = (myDate.getMonth() + 1);
+
+        if (month < 10) {
+            month = "0" + month;
+        }
+        var tdate = myDate.getDate();
+        if (tdate < 10) {
+            tdate = "0" + tdate;
+        }
+
+        var today = myDate.getFullYear() + "" + month + "" + tdate;
+        if (day != today) {
+            alert("抱歉，只可以签到当天，当天" + myDate.getDate() + "号");
+            return false;
+        } else {
+            init(today);
+            alert("签到成功");
+        }
+
+        if (isBusy) {
+            return false;
+        }
+        isBusy = true;
+        var url = "act.php?a=sign&day=" + day;
+        $.getJSON(url, function (data) {
+            isBusy = false;
+            switch (data.ret) {
+                case "unsubscribe":
+                    //$("#J_rwm").css("display","block");
+                    break;
+                case "success":
+                    $(_this).addClass('cur');
+                    alert(data.msg);
+                    break;
+                default :
+                    alert(data.msg)
+                    break;
+            }
+        })
+    })
+    $(function () {
+        init();
+    })
+
+    function Ajax(url, data = null) {
+        $.ajax({
+            type: 'POST',
+            url: url,
+            dataType: 'json',
+            success: function (result) {
+                if (result.errorcode = 0) {
+                    return result;
+                }
+            }
+        });
+    }
+
+    function init(day = null) {
+
+        //data: "signtime="+id,
+        var url = "act.json";
+        $.ajax({
+            type: 'POST',
+            url: 'http://localhost:9095/activity.php',
+            data: "signtime=" + day,
+            dataType: 'json',
+            success: function (result) {
+                if (result.ret == 'success') {
+                    switch (result.ret) {
+                        case "unsubscribe":
+                            //$("#J_rwm").css("display","block");
+                            break;
+                        case "success":
+                            //alert(111);
+                            if (!result.login) {
+                                //$("#J_rwm").css("display","block");
+                            }
+                            var _html = "";
+                            $.each(result.sign, function (key, value) {
+
+                                _html += '<li name="' + value.day + '" ';
+                                if (value.sign) {
+                                    _html += 'class="cur"';
+                                }
+                                _html += ' ><span class="day">' + key + '</span></li>';
+                            })
+                            $(".calendar").html(_html);
+                            break;
+                        default:
+                            alert(result.msg);
+                            break;
+                    }
+
+                    /*$.getJSON(url,function(data){
+                        switch(data.ret){
+                            case "unsubscribe":
+                                //$("#J_rwm").css("display","block");
+                                break;
+                            case "success":
+                                if(!data.login){
+                                    //$("#J_rwm").css("display","block");
+                                }
+                                var _html = "";
+                                $.each(data.sign, function(key, value){
+                                    _html += '<li name="'+value.day+'" ';
+                                    if(value.sign){
+                                        _html += 'class="cur"';
+                                    }
+                                    _html += ' ><span class="day">'+key+'</span></li>';
+                                })
+                                $(".calendar").html(_html);
+                                break;
+                            default:
+                                alert(data.msg);
+                                break;
+                        }
+                    })*/
+                }
+            }
+        });
+
+
+    }
+
+    function lottery(days) {
+
+        var signed = $(".calendar li[class=cur]").length;
+        if (signed < days) {
+            $("#errMsg").css("display", "block");
+
+            return;
+        }
+        if (isBusy) {
+            return false;
+        }
+        isBusy = true;
+        // 请求处理地址
+        // 判断玩家是否是真实签到 对比累计天数
+        // 对应天数做一个配置 对应累计天数获取对应类型奖励
+        // 返回给客户端 客户端获取user cookie openid
+        var url = "act.php?a=getPrize&type=" + days;
+        $.getJSON(url, function (data) {
+            isBusy = false;
+            switch (data.ret) {
+                case "unsubscribe":
+                    $("#J_rwm").css("display", "block");
+                    break;
+                case "success":
+                    $(".code").html(data.code);
+                    $("#codeMsg").css("display", "block");
+                    break;
+                default:
+                    alert(data.msg);
+                    break;
+            }
+
+        })
+
+    }
+
+    wx.config({
+        debug: false,
+        appId: 'wx7bbc533298b663f3',
+        timestamp: 1537877458,
+        nonceStr: 'AJjS5BRbfCRBPlNB',
+        signature: '3eeb7921328a34cf8cd149ae3c4180e2592f9494',
+        jsApiList: [
+            'checkJsApi',
+            'onMenuShareTimeline',
+            'onMenuShareAppMessage',
+            'onMenuShareQQ',
+            'onMenuShareWeibo',
+            'onMenuShareQZone'
+        ]
+    });
+
+    wx.ready(function () {
+        wx.onMenuShareTimeline({
+            title: '签到领壕礼',
+            desc: '《魔域来了》签到即可领取豪华礼包，月终还有终极大奖等你来领！',
+            link: 'http://www.djsh5.com/huodong/wechat/connect.php?app_id=wx923fbef088b46d2e&game_id=156&goto_url=http://hd.djsh5.com/huodong/lanyue/sign/',
+            imgUrl: 'img/wechat-share.png',
+            success: function (res) {
+            },
+            cancel: function (res) {
+                //alert(JSON.stringify(res));
+            },
+            fail: function (res) {
+                //alert(JSON.stringify(res));
+            }
+        });
+
+        wx.onMenuShareAppMessage({
+            title: '签到领壕礼',
+            desc: '《魔域来了》签到即可领取豪华礼包，月终还有终极大奖等你来领！',
+            link: 'http://www.djsh5.com/huodong/wechat/connect.php?app_id=wx923fbef088b46d2e&game_id=156&goto_url=http://hd.djsh5.com/huodong/lanyue/sign/',
+            imgUrl: 'img/wechat-share.png',
+            success: function (res) {
+            },
+            cancel: function (res) {
+                //alert(JSON.stringify(res));
+            },
+            fail: function (res) {
+                //alert(JSON.stringify(res));
+            }
+        });
+    });
+</script>
+
+
+</body>
+</html>
+

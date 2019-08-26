@@ -1,0 +1,107 @@
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 327 funtion: formatSqlWhere]formatSqlWhere data is ok appid=:appid AND  openid=:openid AND  channel=:channel AND  sid=:sid  
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll UPDATE app_6_user SET `uid`=:uid,`gameid`=:gameid,`respce_lottery_total`=:respce_lottery_total,`surplus_lottery_num`=:surplus_lottery_num,`openid`=:openid,`act_lottery_end_at`=:act_lottery_end_at,`lottery_total`=:lottery_total,`create_at`=:create_at,`lucky_draw_total`=:lucky_draw_total,`lottery_up_limit`=:lottery_up_limit,`login_at`=:login_at WHERE appid=:appid AND  openid=:openid AND  channel=:channel AND  sid=:sid  
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:06:57[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:07:27[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:07:38[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:46[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:09:51[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 11:10:09[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 13:27:26[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 249 funtion: insert]asdasdsa INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqll INSERT INTO app_user_consignee (`appid`,`openid`,`channel`,`sid`,`prize_id`,`prize_name`,`create_at`,`prize_order`,`prize_desc`,`prize_type`,`date`)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?) 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllUPDATE gank_activites.app_6_user SET surplus_lottery_num = surplus_lottery_num-1,
+            lottery_total=lottery_total+1,lucky_draw_total=lucky_draw_total+1,lottery_up_limit=lottery_up_limit+0
+            WHERE openid = '4f1565100230dbbda013e1bc51f24352' 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-19 13:27:29[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT uid,gameid,respce_lottery_total,surplus_lottery_num,openid,
+        act_lottery_end_at,lottery_total,create_at,lucky_draw_total,lottery_up_limit,login_at FROM app_6_user WHERE openid=:openid LIMIT 1 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT who,DATE(begdate) as login_at,COUNT(*) as login_frequency FROM (SELECT * FROM receivelogin WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid 
+        AND channelid=:channelid AND serverid=:serverid  ) as a GROUP BY DATE(a.begdate) 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 21 funtion: __construct]############ {"host":"192.168.0.140","user":"root","port":3306,"pass":"lmj3503791673","dbname":"test","dbcharset":"utf8"} 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 30 funtion: __construct]############ {"host":"192.168.0.140","port":3306,"user":"root","pass":"lmj3503791673","dbname":"test"} 
+2018-11-19 13:27:41[D:\xampp\htdocs\activity\lib\mysqldb.php: line: 74 funtion: query]sqllSELECT COUNT(*) paynum,SUM(currencyamount) as amount  FROM todaypayment  WHERE who=:who AND begdate>=:act_start_at 
+        AND begdate<=:act_end_at  AND appid=:appid AND 
+        channelid=:channelid AND serverid=:serverid LIMIT 1 

@@ -1,0 +1,865 @@
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 10:55:38[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 10:55:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:55:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 10:55:56 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999898","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"103","create_at":"2018-11-13 14:05:28","lucky_draw_total":"103","lottery_up_limit":"0","login_at":"20181115"} 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1082 funtion: respaceRoleUplimitdata]干预重置的玩家上限抽奖次数成功 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:55:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 10:56:03 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 10:56:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999898","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"103","create_at":"2018-11-13 14:05:28","lucky_draw_total":"103","lottery_up_limit":0,"login_at":"20181116"} 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:56:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 10:57:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:57:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 10:57:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 10:57:20[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:00:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:00:44 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999898","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"103","create_at":"2018-11-13 14:05:28","lucky_draw_total":"103","lottery_up_limit":0,"login_at":"20181116"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:00:45 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999897","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"104","create_at":"2018-11-13 14:05:28","lucky_draw_total":"104","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:01 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999896","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"105","create_at":"2018-11-13 14:05:28","lucky_draw_total":"105","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:02:01[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:30 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999895","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"106","create_at":"2018-11-13 14:05:28","lucky_draw_total":"106","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:02:30[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:34 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:34[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999894","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"107","create_at":"2018-11-13 14:05:28","lucky_draw_total":"107","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:35 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:35[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999893","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"108","create_at":"2018-11-13 14:05:28","lucky_draw_total":"108","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:36 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999892","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"109","create_at":"2018-11-13 14:05:28","lucky_draw_total":"109","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:02:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:02:37 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999891","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"110","create_at":"2018-11-13 14:05:28","lucky_draw_total":"110","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:02:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:40 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999890","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"111","create_at":"2018-11-13 14:05:28","lucky_draw_total":"111","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:06:40[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:41 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999889","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"112","create_at":"2018-11-13 14:05:28","lucky_draw_total":"112","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:06:41[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:42 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999888","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"113","create_at":"2018-11-13 14:05:28","lucky_draw_total":"113","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:06:42[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:43 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999887","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"114","create_at":"2018-11-13 14:05:28","lucky_draw_total":"114","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:43 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999886","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"115","create_at":"2018-11-13 14:05:28","lucky_draw_total":"115","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:43[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1088 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 829 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 838 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 591 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:06:44 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999885","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"116","create_at":"2018-11-13 14:05:28","lucky_draw_total":"116","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 927 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:06:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 894 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost:9096\/lottrty_web\/":""} 
+2018-11-16 11:14:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1087 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 828 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 837 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 590 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:50 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:50 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999884","list":{"chance_times":"1999884"}} 1 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:50 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1046 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"117"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:50 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999884","list":{"chance_times":"1999884"}} 1 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"ranking","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:52 活动开始时间1542081625 活动结束时间1546247620 
+2018-11-16 11:14:52[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:53 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999884","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"117","create_at":"2018-11-13 14:05:28","lucky_draw_total":"117","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 926 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:14:53[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 893 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:14:59 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999883","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"118","create_at":"2018-11-13 14:05:28","lucky_draw_total":"118","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 926 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:14:59[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 893 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1087 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 828 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 837 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 590 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:22:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:22:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:22:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1046 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"119"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:22:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:22:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1087 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 828 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 837 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 590 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 552 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:23:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:23:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:23:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1046 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"119"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:23:11 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:23:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1011 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:19 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1098 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 839 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 848 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 588 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 550 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:19 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1022 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:19 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1057 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"119"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:19 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1022 funtion: getLotterySurplusNum]被调用 {"val":"1999882","list":{"chance_times":"1999882"}} 1 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:21 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999882","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"119","create_at":"2018-11-13 14:05:28","lucky_draw_total":"119","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 937 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 11:37:21[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 904 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 11:37:26 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999881","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"120","create_at":"2018-11-13 14:05:28","lucky_draw_total":"120","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 11:37:26[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 904 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:00:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:05 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999880","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"121","create_at":"2018-11-13 14:05:28","lucky_draw_total":"121","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1102 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 843 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 852 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 592 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 554 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:05 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999880","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"121","create_at":"2018-11-13 14:05:28","lucky_draw_total":"121","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999880","list":{"chance_times":"1999880"}} 1 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:05 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999880","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"121","create_at":"2018-11-13 14:05:28","lucky_draw_total":"121","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1061 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"121"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:05 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999880","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"121","create_at":"2018-11-13 14:05:28","lucky_draw_total":"121","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999880","list":{"chance_times":"1999880"}} 1 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:07 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:07[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999880","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"121","create_at":"2018-11-13 14:05:28","lucky_draw_total":"121","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:01:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:13 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999879","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"122","create_at":"2018-11-13 14:05:28","lucky_draw_total":"122","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:01:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:19 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999878","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"123","create_at":"2018-11-13 14:05:28","lucky_draw_total":"123","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:01:19[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:23 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999877","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"124","create_at":"2018-11-13 14:05:28","lucky_draw_total":"124","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:01:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"saveaddress","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","consignee_phone":"17621719991","consignee_address":"james","prize_order":"1F1A0E7E00179D8B007A84B47D19C186","type":"undefined"} 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:36 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999876","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"125","create_at":"2018-11-13 14:05:28","lucky_draw_total":"125","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 961 funtion: updateShippingAddress]updateShippingAddress get data  {"c":"api","a":"saveaddress","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","consignee_phone":"17621719991","consignee_address":"james","prize_order":"1F1A0E7E00179D8B007A84B47D19C186","type":"undefined"} 
+2018-11-16 12:01:36[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 977 funtion: updateShippingAddress]礼物已被更改领取... 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_gift","a":"my_rewards","alias_info":"dtsh5year20180913","f":"auto","feature_key":"lottery","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:37 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:37[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999876","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"125","create_at":"2018-11-13 14:05:28","lucky_draw_total":"125","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"saveaddress","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","consignee_phone":"17621718991","consignee_address":"jack","prize_order":"1F1A0E7E00179D8B007A84B47D19C186","type":"0"} 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:49 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999876","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"125","create_at":"2018-11-13 14:05:28","lucky_draw_total":"125","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 961 funtion: updateShippingAddress]updateShippingAddress get data  {"c":"api","a":"saveaddress","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","consignee_phone":"17621718991","consignee_address":"jack","prize_order":"1F1A0E7E00179D8B007A84B47D19C186","type":"0"} 
+2018-11-16 12:01:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 977 funtion: updateShippingAddress]礼物已被更改领取... 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_gift","a":"my_rewards","alias_info":"dtsh5year20180913","f":"auto","feature_key":"lottery","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:01:50 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:01:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999876","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"125","create_at":"2018-11-13 14:05:28","lucky_draw_total":"125","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:02 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999876","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"125","create_at":"2018-11-13 14:05:28","lucky_draw_total":"125","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:02:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:09 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999875","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"126","create_at":"2018-11-13 14:05:28","lucky_draw_total":"126","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 12:02:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 12:02:28[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:28[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:28[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:28 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1102 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 843 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 852 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 592 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 554 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999874","list":{"chance_times":"1999874"}} 1 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1061 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"127"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 12:02:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 12:02:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999874","list":{"chance_times":"1999874"}} 1 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:23 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1102 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 843 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 852 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 592 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 554 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:23 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999874","list":{"chance_times":"1999874"}} 1 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:23 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1061 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"127"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:23 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999874","list":{"chance_times":"1999874"}} 1 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:24 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999874","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"127","create_at":"2018-11-13 14:05:28","lucky_draw_total":"127","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 941 funtion: setpirzeConsigneeLog]添加奖品信息成功 
+2018-11-16 13:21:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 908 funtion: lotteryDeduction]抽取用户抽取次数成功 1 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999873","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"128","create_at":"2018-11-13 14:05:28","lucky_draw_total":"128","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1102 funtion: respaceRoleUplimitdata]respaceUserInfo is time is true 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 843 funtion: replaceLotteryData]back user data {"login_frequency":720,"login_successive_day":28,"login_total_day":29,"pay_frequency":0,"pay_amount":0} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 852 funtion: replaceLotteryData]更新抽奖失败 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 592 funtion: isRespaceLottery]RespaceLottery   prize_respace_at is null  
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 554 funtion: initializeLotteryInfo]initializeLotteryInfo false 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999873","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"128","create_at":"2018-11-13 14:05:28","lucky_draw_total":"128","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999873","list":{"chance_times":"1999873"}} 1 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999873","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"128","create_at":"2018-11-13 14:05:28","lucky_draw_total":"128","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1061 funtion: getUserLotteryTotal]getUserLotteryTotal data info  {"result":1,"msg":"接口调用成功","val":"128"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999873","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"128","create_at":"2018-11-13 14:05:28","lucky_draw_total":"128","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 1026 funtion: getLotterySurplusNum]被调用 {"val":"1999873","list":{"chance_times":"1999873"}} 1 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_gift","a":"my_rewards","alias_info":"dtsh5year20180913","f":"auto","feature_key":"lottery","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 248 funtion: isActivitesTime]当前时间 2018-11-16 13:21:29 活动开始时间1542081641 活动结束时间1546247620 
+2018-11-16 13:21:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 253 funtion: isActivitesTime]^^^^^^^^^^^^^^ {"uid":"0366415e26930fa2f42dae66fce21f1b","gameid":null,"respce_lottery_total":"0","surplus_lottery_num":"1999873","openid":"4f1565100230dbbda013e1bc51f24352","act_lottery_end_at":"2018-12-31 17:13:40","lottery_total":"128","create_at":"2018-11-13 14:05:28","lucky_draw_total":"128","lottery_up_limit":"0","login_at":"20181116"} 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:45:54[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:23[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:24[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:44[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1"} 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:46:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:48:10[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:48:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:48:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:48:27[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:48:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:49:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:49:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:50:39[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid  
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:51:29[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:45[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:49[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:50[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:51[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:56[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:57[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:52:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:02[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:03[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:05[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:46[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:47[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"appid":"6","appcode":"rGTaSneKdZ4yx","channel":"aiweiyou","uid":"0366415e26930fa2f42dae66fce21f1b","sid":"1","a":"roll"} 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 97 funtion: httpData]file name  6_rgtasnekdz4yx.json 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 321 funtion: isApp]appid 1355 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 176 funtion: isActivites]appid游戏不存在 
+2018-11-16 13:53:48[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 127 funtion: initializeHttpData]活动规则异常 

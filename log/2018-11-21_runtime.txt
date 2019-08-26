@@ -1,0 +1,315 @@
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:17:04[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:17:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:20:39[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:20:40[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:24[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:25[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:26[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:31[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:21:32[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:24:20[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:01[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:15[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:37[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:29:38[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:30:09[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:30:10[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:22[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:23[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:54[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:31:55[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:05[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:11[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:33:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:39:12[D:\xampp\htdocs\activity\lib\runtime.php: line: 52 funtion: isDatas]is Data array key  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  
+2018-11-21 18:39:13[D:\xampp\htdocs\activity\lib\runtime.php: line: 48 funtion: isDatas]is Data array  

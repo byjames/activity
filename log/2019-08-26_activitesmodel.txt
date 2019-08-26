@@ -1,0 +1,36 @@
+2019-08-26 09:16:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:16:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... [] 
+2019-08-26 09:16:08[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:04[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:06[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:06[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:06[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"roll","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:09[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_gift","a":"my_rewards","alias_info":"dtsh5year20180913","f":"auto","feature_key":"lottery","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:11[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"ranking","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:13[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"show_activity","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"c_lottery_normal","a":"get_chance_times","alias_info":"dtsh5year20180913","feature_key":"lottery","f":"auto","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 61 funtion: httpData]http php://input DATA  null 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 62 funtion: httpData]http GET DATA conttents php input ... {"c":"api","a":"get_lottery_num","alias_info":"dtsh5year20180913","f":"d201809\/dtsh5year20180913","http:\/\/localhost\/activites_web\/":""} 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\lib\activitesmodel.php: line: 142 funtion: isParame]appid is null  

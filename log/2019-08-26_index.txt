@@ -1,0 +1,12 @@
+2019-08-26 09:16:08[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号  
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2019-08-26 09:16:58[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
+2019-08-26 09:18:04[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2019-08-26 09:18:06[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2019-08-26 09:18:09[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 roll 
+2019-08-26 09:18:11[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 my_rewards 
+2019-08-26 09:18:13[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 ranking 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 show_activity 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_chance_times 
+2019-08-26 09:18:18[D:\xampp\htdocs\activity\index.php: line: 9 funtion: unknow]获取协议号 get_lottery_num 
